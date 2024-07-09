@@ -1,0 +1,8 @@
+kok4,vip,false,1,
+kok5,vip,false,2,
+kok6,vip,false,3,
+ys1,member,true,1,
+ys2,member,true,2,
+ys3,member,false,1,
+ys4,member,false,2,
+bernard,normal,false,1,
